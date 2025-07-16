@@ -23,5 +23,8 @@ Nucleotide fragment templates:
     ("element", "S2")
 ]
 
+3. ATTRACT/ : in ATTRACT reduced format 
+    (RNA reduced force field atom types from Setny et al.)
+
 Author: Sjoerd de Vries, CNRS.
 License: public domain
